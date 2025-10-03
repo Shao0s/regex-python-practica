@@ -1,4 +1,4 @@
-# regex-python-practicaimport sys
+import sys
 
 # Función de validación
 def validar_correo(correo: str) -> str:
